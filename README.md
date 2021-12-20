@@ -142,6 +142,6 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 Version 2 Authors:
-<ul> Emediong Francis <emediongfrancis@gmail.com> </ul>
-<ul> Ayesiga Nobert <ayesiganobert@gmail.com> </ul>
+* Emediong Francis <emediongfrancis@gmail.com>
+* Ayesiga Nobert <ayesiganobert@gmail.com>
 
